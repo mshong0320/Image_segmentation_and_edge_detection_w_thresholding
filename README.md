@@ -2,4 +2,7 @@
 Following python scripts are for multiple object segmentation in an image with edge detection and thresholding
 
 #Images in Readme
-![]images/2a_complex.png
+
+<img src="Images/2a_complex.png" >
+
+![](Images/2a_complex.png)
