@@ -3,6 +3,6 @@ Following python scripts are for multiple object segmentation in an image with e
 
 #Images in Readme
 
-<img src="Images/2a_complex.png" >
+<img src="Images/2a_complex.png" width="100" >
 
 ![](Images/2a_complex.png)
